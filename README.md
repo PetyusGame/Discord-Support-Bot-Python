@@ -11,3 +11,21 @@
 Code by:
 	
 - [f1oppa] (#github.com/f1oppa)
+
+### Some Images
+
+### - Creating a channel
+
+<img src="https://cdn.discordapp.com/attachments/931205788448481290/931206469917999114/unknown.png">
+
+### - Replies in that created channel
+
+<img src="https://cdn.discordapp.com/attachments/931205788448481290/931206541011460147/unknown.png">
+
+### - Replies with any error if you delete the channel in a different channel
+
+<img src="https://cdn.discordapp.com/attachments/931205788448481290/931206661245390888/unknown.png">
+
+### - Bot deletes the channel
+
+<img src="https://cdn.discordapp.com/attachments/931205788448481290/931206726802370640/unknown.png">
