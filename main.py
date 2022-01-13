@@ -25,7 +25,7 @@ async def getsupport(ctx: commands.Context):
     )
 
 
-@bot.command(name="channel.close") # <------- this command will delete the channel
+@bot.command(name="your_command") # <------- this command will delete the channel
 async def closechannel(ctx: commands.Context):
     if ctx.channel.name.startswith("support-"):
         await ctx.send("Ok. The channel will be deleted in 10 seconds.") # <---- you can rewrite this as well
