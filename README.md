@@ -12,6 +12,8 @@ Code by:
 	
 - [f1oppa] (https://github.com/f1oppa)
 
+---
+
 ### Some Images
 
 ### - Creating a channel
