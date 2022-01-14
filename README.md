@@ -24,7 +24,7 @@ Code by:
 
 <img src="https://cdn.discordapp.com/attachments/931205788448481290/931206541011460147/unknown.png">
 
-### - Replies with any error if you delete the channel in a different channel
+### - Replies with an error if you delete the channel in a different channel
 
 <img src="https://cdn.discordapp.com/attachments/931205788448481290/931206661245390888/unknown.png">
 
