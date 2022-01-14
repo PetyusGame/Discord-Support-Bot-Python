@@ -1,4 +1,6 @@
-import os
+token = input("Enter your bots token ")
+
+import sys
 import discord
 import time
 from discord.ext import commands
@@ -35,6 +37,8 @@ async def closechannel(ctx: commands.Context):
         await ctx.send("This is not a support channel.") # <------ this is an error message if you close the channel in another channel
 
 
-my_secret = os.environ['token']
 """keep_alive()"""
-bot.run(my_secret)
+try:
+    bot.run(token)
+except:
+    sys.exit("Invalid token. Please provide a valid discord authentication token.")
