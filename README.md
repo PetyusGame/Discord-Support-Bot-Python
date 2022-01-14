@@ -10,7 +10,7 @@
 
 Code by:
 	
-- [f1oppa] (https://github.com/f1oppa)
+- [f1oppa](https://github.com/f1oppa)
 
 ---
 
