@@ -1,5 +1,3 @@
-token = input("Enter your bots token ")
-
 import sys
 import discord
 import time
@@ -7,6 +5,7 @@ from discord.ext import commands
 """from keep_alive import keep_alive"""
 
 client = discord.Client()
+token = "PUT YOUR TOKEN HERE"
 
 bot = commands.Bot(command_prefix="your_bot_prefix")
 bot.remove_command("help")
